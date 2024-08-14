@@ -3,7 +3,7 @@
 _________________________________________________________________________________________________________
 
 
-- Olá! Esse repositório é para consuntar o material para o desenvolvimentodo _site_ de vcs!! 😸
+- Olá! Esse repositório é para consultar o material para o desenvolvimento do _site_ de vcs!! 😸
 - Consulte o(s) _link(s)_ abaixo para consultar o material 📖
 
 _________________________________________________________________________________________________________
