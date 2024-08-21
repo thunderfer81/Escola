@@ -1,0 +1,13 @@
+body{
+    background: rgb(135, 206, 250);
+}
+header{
+    color: rgb(222, 195, 16);
+    border-bottom: dotted 3px black;
+    margin: 15px;
+}
+
+.subtitulo{
+
+    margin: 15px;
+}
